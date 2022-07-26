@@ -6,7 +6,7 @@ var UnminedMapProperties = {
     imageFormat: "png",
     minRegionX: -4,
     minRegionZ: -3,
-    maxRegionX: 4,
+    maxRegionX: 5,
     maxRegionZ: 4,
     worldName: "Maple Town",
     background: "202020",
